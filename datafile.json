@@ -1,0 +1,19 @@
+{
+   "villes":[
+      {
+         "nom":"Rabat",
+         "temperature":30,
+         "pays":"MAROC"
+      },
+      {
+         "nom":"Salé",
+         "temperature":25,
+         "pays":"MAROC"
+      },
+      {
+         "nom":"Paris",
+         "temperature":12,
+         "pays":"FRANCE"
+      }
+   ]
+}
